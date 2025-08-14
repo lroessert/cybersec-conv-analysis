@@ -1,0 +1,798 @@
+Please describe, in as much detail as possible, the last time you talked about cybersecurity.
+ 
+
+Consider:
+
+
+	
+	Who was involved?
+	
+	
+	Where did the conversation take place?
+	
+	
+	What did you talk about?
+	
+	
+	What triggered the conversation?
+	
+	
+	How long did it last?
+	
+	
+	Anything else you remember?
+----
+1. Club colleagues
+2. University
+3. Spam emails
+4. Spam emails sent to the club mailing list, presumably containing malware
+5. 15 minutes
+6.
+----
+I talked to colleagues at work (video studio) about a new email in my inbox. The email stated that I had allegedly mishandled sensitive company information, but it turned out to be a test by our IT department to see if we would recognize phishing emails. At first, I simply asked my colleagues what I should do with the email, because I didn't know how to report or block something like that. Apparently, these types of emails are sent to our company on a regular basis to make employees more aware of phishing emails.
+----
+1. My mother and I
+2. Living room
+3. Extension of virus protection to newly purchased device
+4. New laptop purchase, places still available under existing license
+5. 5 minutes
+6. No
+----
+The conversation with a friend who wants to offer IT security training for adults took place at her home.
+She wanted feedback on the content of her training course because, although she has a basic knowledge of the subject as a former computer science student, she does not yet have any professional experience in this area. Since I myself am an information security officer, an external cybersecurity auditor, and have had other contact with the subject in my professional life, she asked me for my opinion.
+The conversation took a little longer than expected (1-2 hours?) because there were several points to discuss:
+- Only one training course is to be held (no follow-up sessions, so no in-depth study is possible)
+- Help for self-help, as there is only time for a superficial overview
+- Problem with overload/overwhelm
+- Convey topics as simply as possible, but as accurately as possible
+- On the other hand, maintain distance (convey the obligation to do one's own research and not take responsibility if someone configures the password manager without a backup)
+
+The longest discussion was about password generation. My girlfriend always likes to ask the audience questions during training sessions to spark interest and help them understand the application.
+Her planned question was about entering passwords used on haveibeenpwned to find out how secure they are.
+From my point of view, I would advise against this, even though this website is rather trustworthy (which, of course, could also be questioned). However, the point is that people should be discouraged from entering their passwords on any website that is not the original website for logging in (e.g., only enter your Facebook password on Facebook).
+----
+1. My son, who has an intellectual disability, and his school support worker were involved.
+
+2. School
+
+3. How to prevent my son from resetting and changing anything on his school device.
+
+4. I received a message saying that the password for my Apple account had been reset. I only have the Apple account for my son's school iPad. I didn't understand why and who did it and wanted information about what happened at school, as I don't want my son or other people to be able to change it and I don't understand how it could have happened.
+
+5.15 min
+6. Neither I nor the school assistant know how to proceed. We feel abandoned and pressured by the school. They wanted to introduce the devices and we are having problems.
+----
+Doctor's appointment; doctor is surprised by my heart rate. He asks if my pulse increases during physical exertion. I answer that I think so. He asks if I don't monitor this on my smartwatch. I answer that I don't own a smartwatch because I don't want corporations in the US or China to know details about my health.
+The doctor is surprised but accepts my position.
+----
+The discussion took place among colleagues. It revolved around the observation that the IT infrastructure in the working environment is generally far too vulnerable. The main reason identified for this was that many processes are decentralized and colleagues have little awareness of the impact of their own behavior on cybersecurity in their everyday work. This would also be reflected, among other things, in low compliance with relevant guidelines, the use of appropriately approved software, etc. This finding was generally agreed upon, and it was suggested that an information event be organized with the IT department to address the problem.
+----
+Colleagues, at work, file encryption by ransomware, ransomware attacks on public institutions and companies, approx. 10 min, conclusion: more needs to be done, LMU is lagging behind, it's a miracle that we haven't been the victim of an attack yet.
+----
+1. Colleagues
+2. At work
+3. I don't want my data to be used for AI development
+4. The storage of my WhatsApp data
+5. 15-20 minutes
+6. We also talked about it in my family
+----
+In the lecture Human-Machine Interaction 2, we had a guest lecture on human-centered security. It was mainly a lecture-style class, but after the lecture, I talked to my fellow students about the fact that passwords can be very secure, but most users use the same passwords and therefore they are not so secure. The conversation lasted about 5 minutes.
+----
+I talked to one of my colleagues at the university about cybersecurity in the age of quantum computing. The conversation took place in the communal kitchen of the university offices and came about because we happened to bump into each other. The topic came up because my colleague had given a lecture on quantum computing a few days earlier (he is doing his PhD on programming languages for quantum computing). We talked for about 15 minutes.
+----
+Conversation at home in the living room with my mother about the security of publishing personal data on social media platforms in connection with hacks after security concerns at Facebook became known.
+Approximately 5-10 minutes in length.
+----
+In fact, we talked about it after we all read Marc Uwekling's thriller View or listened to it as an audiobook.
+
+On the one hand, it was about AI and whether AI really uses crime and generates crime. On the other hand, it was about what is real. Or what if the justice system and the police can no longer tell when something is generated by AI or not. Or if it leads to incitement and violence. Or how people use data on the internet and messages to create an identity. Or use another identity to commit a crime in that name. Or how an artificial identity is used to incite hatred. And what might already be possible today or in a few years. And that data security is becoming increasingly important. But data misuse could also become more and more common. Some people said that this is nonsense, that it's still full of bugs, etc., and that you couldn't generate something so perfect. The conversation then moved on to cyber warfare in politics and modern warfare without weapons—you would only have to hack a region's infrastructure to paralyze it (electricity, local transport, telecommunications, water supply, etc.). Oh, the conversation went on for several hours, probably 3-4 hours.
+Another situation was at work, where the topic was password security for devices. Since most of them are located directly at the PC, or if it is a shared device or in the immediate vicinity, how secure are they if they are so easily chosen? How secure is our test data then? Can anyone access it? Should we only give the passwords to the person next to us? Without leaving a note nearby. How secure is the university against cyber attacks, etc.? Some were more concerned about security, while others were very confident, which led to a heated discussion about what-if scenarios.
+The conversation lasted about 30-45 minutes.
+
+----
+1. Friend
+2. Home
+3. Hacker attacks in general
+4. Latest news
+5. Max 5 min
+6. Hackers are always one step ahead of IT security
+----
+I discussed this topic with colleagues during lunch break.
+
+1. My sister
+2. On the phone
+3. About data protection
+4. My lost notebook, because it contained all my passwords with important information about customers related to work.
+5. 15-20 min
+6. No 
+----
+The last time I have spoken about cybersecurity, was two weeks ago. Few departments in the college that I work received some spam emails. We immediately reported them to the IT department. Then they took it from there. They shared an email notifying and warning the employee to not click on links coming from unknown or outside organization emails.
+----
+1. The students in the class 
+2. In the classroom 
+3. Russia’s cyber attack 
+4. Russia’s cyber attack which shutdown the whole electricity in some part of the Balkans.
+5. 2 Hours
+6. It showed how unprepared the Balkans were from these attacks.
+----
+My husband and I were talking about the difference between obfuscating and encrypting.
+
+He is 31, a “full-blooded” computer scientist for over 15 years, with many projects of his own, more hardware-oriented (preferably no front end).
+
+I am 30, also worked in IT, but I am a psychologist (and am now getting my master's degree) and used to work in HR, supporting all software departments in a start-up (100 people), and then moved into project management.
+I don't develop myself, but I have a *huge* interest in software development, have supported software departments (e.g., led refinements where I had to understand the concepts in order to moderate well, e.g., why singletons are terrible, race conditions, release candidates, breaking changes, ...). I also have my own small software projects, but they are negligible (a small homepage, a vacation calculator, which would be much easier in Excel, but it was good practice at the time, etc.).
+
+My husband and I have had a WhatsApp group for two years now, where I write down everything I would like to understand better. Whenever we go for a walk, out to dinner, or something similar, we pick topics from there. These can be topics such as heap/stack, why there are so many Linux distros, why regex is so complex, talking in more depth about pointers (and smart pointers), etc. On average, 1-2 topics are added to the group (sometimes more, sometimes less) and there are still some open. Some are very comprehensive, some very precise.
+
+
+So, we were walking in the zoo recently (two weeks ago?), which we do about once a week, and I suggested that we pick a topic and decided on obfuscating vs. encrypting. The trigger was therefore “interest” and “habit,” as we often talk during our walks. We talked about the topic for about 20-30 minutes and then moved on to quantum computers and then kernel development.
+----
+1. Colleagues from senior studies, my wife
+2. Café
+3. Why do you need a password for the most insignificant nonsense, e.g. when buying tickets for the cinema, which in the worst case is generated by a computer and stored on a specific system (because you can't remember it)? This defeats the purpose of a password.
+4. Many colleagues feel overwhelmed, e.g., when using the LSF at LMU, and are afraid to do banking transactions—they confuse the bank's systems with other computer applications. (At the bank, I can only enter a password three times—with other computer applications, I can enter it an infinite number of times).
+5. Approximately 30 minutes
+6. You can obtain/apply for cloud storage at LMU – this is so unnecessarily complicated when applying for and later using it that the really important things are completely lost sight of.
+----
+Senior citizen advice at the ASZ
+Internet safety: what to do, what to look out for
+Demand for advice
+30 min
+???
+----
+My partner showed me his new password manager at home. He says it's extremely secure and that I should stop using Google Password Manager because it's less secure. I replied that I hardly ever use password managers and remember almost all my passwords, but that they often have no more than eight characters. He recommended that if it became too much for me to remember these passwords, he would sit down with me and set up the password manager on this website so that I wouldn't have to use Google.
+The conversation lasted a few minutes, and he also impressively showed me how simple and useful his new password manager is. He assured me that he had thoroughly researched the increased security provided by the length and complexity of the suggested passwords.
+----
+1. A friend and I
+2. in a sports clubhouse
+3. via WhatsApp
+4. the request to join a WhatsApp group
+5. four minutes
+6. of course
+----
+1. A work colleague and myself 
+2. In the office
+3. The steps we take for cybersecurity as individuals handling security themes at work
+4. An article I read and shared with said colleague about a security vulnerability 
+5. A few minutes (more than 10)
+6. No
+----
+1. Computer science student and math student
+2. Isarufer
+3. Security vulnerabilities in well-known browsers such as Chrome, Firefox, and Safari (zero-day exploits)
+4. The computer science student involved has qualified for the German hacking championships
+5. 20 minutes
+6. An acquaintance of a friend of mine has repeatedly received €300,000 for discovering such zero-day exploits in recent years. That's a lot of money for a student.
+----
+1. Friends
+2. Public transport, school/university, home, at a friend's house
+3. Password selection
+4. We are IT nerds, news
+5. 10-30 minutes
+6. Possibly also OS selection, switching to Linux, BigTech, open source, data protection, informational self-determination, CloudFlare Teleport, etc., IMSI catching, etc.
+----
+1. Friends of the same age as me (23 years old)
+2. While walking
+3. About the possibility of cracking the RSA algorithm using quantum computing. More specifically, it was about the Shor algorithm offering the option of breaking numbers down into their prime factors.
+4. The general development of encryption.
+5. Approximately 30 minutes
+6. -/-
+----
+1. Friends
+2. Home
+3. Password security, hacker attacks
+4. Partner works in IT company and talks about his workday
+5. 30 minutes
+6. No
+----
+It was a talk with a colleague about the onboarding of a new customer to our product. It was about separating all customers technically and secure data protection. It took about half an hour. 
+----
+1. My husband.
+2. At home.
+3. About the password for a portal where you can find daycare centers and nurseries in Munich. I had generated the password online. But my partner thought it would be safer to choose one himself.
+4. Looking for a nursery place for our child.
+5. I can't remember exactly. Maybe it was five minutes. The conversation didn't last long. 
+----
+Involved were colleagues of mine. The conversation took place at work.  We talked about systems we use to protect against cyberattacks. Some news from Microsoft triggered the conversation. We talked about 30min. 
+----
+My university has introduced two-factor authentication for its website. I talked to everyone about how annoying it is. Everyone else found it annoying too. No one saw the point of it, as there is no particularly sensitive data on university accounts.
+----
+1. Coworkers
+2. During breaks at work
+3. We talked about how two factor approval for logging in to accounts makes it hard to use company social media through different departments
+4. Trouble with logging in
+5. About 10 minutes
+----
+My parents
+At home
+Password safety and the best way to store them
+A forgotten password
+Couple of minutes, not long
+
+----
+It was actually multiple conversations with my partner about the password and cyber security practises of his parents. I noticed that they never safe any passwords on their computer (my partner also doesn't), but reuse or use very simple passwords. The reason is that they are afraid to use password managers, because they could get hacked, but on the other hand they won't use complex passwords, because they are hard to remember. 
+----
+1. Speaking to my husband
+2. This conversation took place in our home
+3. We spoke about how with today’s technological advancements especially with development of AI, me being in graduate school as well as him in business, AI is so heavily used and cybersecurity is out of the picture at this time, not being paid attention at all of its risks it will likely pose in the near future. 
+4. After I noticed in my class, they were using these new AI tools that could make lectures into a podcast you can listen to. 
+5. It lasted about 10 minutes
+6. On the end, we went back to using technology normally like that conversation never happened.
+----
+I talked to my husband about different scams that are out there related to cybersecurity. I was at home. We were talking because my aunt had gotten a phishing email and wanted to know if was legit. It lasted a few minutes. 
+----
+Last time i talked about cybersecurity was in university with two more colleagues, we did talk about our future in the cybersecurity area, where we would like to work, the person who initiated the conversation was me, it did last around 20 minutes, we also did talk about how we feel discovering backdoors and major errors on the big companies.
+----
+A friend of mine wants to start a cybersecurity company. We were talking about what he would be doing and how he would be handling clients. He did tell me how data is stolen from me and the need for additional security. We talked for about 3 hours.
+----
+My son was put a password on his tablet and then forgot it. When he realized the weight of the situation, he was surprised that there was not a simple fix. That is when his dad explained to him over the next fifteen minutes or so in the kitchen of our family home the importance of cybersecurity and why the measures are so secure.
+----
+It was with my friend Heather, we meet up every few weeks and it was by the river we were just walking and chatting and she mentioned M&S were reopening in Putney and this brought up about the cyber bullies that got through the security and threatened data breeches and then we shifted on to the coop as it happened to them and they were offering money off as a gift but you had to do it in-store and its out of our way.  We chatted about 6/7 min about it and carried on our day.
+----
+A few weeks ago, I talked with a colleague during our lunch break in the cafeteria. He told me his email has been hacked and used to send phishing messages. 
+----
+I had a conversation involving cybersecurity with my supervisor where we went over dos and don'ts of passord saving and sharing as well as document and data sharing. The conversation lasted about 30 minutes. The conversation was triggered as part of my training
+----
+It was with a workmate about the recent data leak from Marks and Spencer. It happened at work and it happened a few weeks ago. We talked about how it happened and if we or anyone we know might be affected. It lasted about 5-10min
+----
+I took a short course in cyber security a year ago back and have a level 2 degree in it. in which my mum was intersted in me to talk about when i went to visit her. i told her the inns and outs and facts that she might not know as she is older. the convo lasted probably 20 minutes and was just telling her how important it is to really keep passwords safe!
+----
+we talked about it at my work in a meeting with me colleagues and my boss.
+the meeting was about an hour. we talk about cyber security in workplace
+----
+1. Me and one of my colleagues, specifically the one responsible for cybersecurity at my office
+2. Inside the office, in the break room
+3. We talked about the last cybersecurity breach
+4. We had just been attacked the previous week, so I asked him to get me up to speed on what he had discovered, and especially on the cause of the breach
+5. About 15 minutes
+6. He told me about the next steps our company is going to take to prevent future attacks, and about a mandatory online course all employees are going to attend about spam emails and other potentially dangerous attack vectors.
+----
+Myself and a friend were discussing our concerns about the feeling we are being constantly watched and listened to by outside sources. 
+Often we discuss things, interests, products etc .. that later come up on various social media platforms as recommendations and suggestions. 
+We both found it highly concerning 
+----
+1. A friend.
+2. On the phone.
+3. Online security. 
+4. News of a data breach.
+5. A few minutes. 
+6. Nothing else comes to mind. 
+----
+I was talking to a friend regarding the incident happened at their organisation. The topic was triggered as we were discussing about a TV series which some how spiralled into the cybersecurity discussion, the discussion lasted for around 7-8mins.
+----
+It involved by boyfrined who is a computer science major.
+It took place in his house.
+We talked about having a password manager that was safe. Something that could be hosted in his server at home.
+The conversation was triggered by me being annoyed that I have to always put different passwords for all my accounts and that I cant keep track of all of them. The conversation lasted about 10 minutes. 
+----
+I remember talking to my mom about it trying to advice her how to check her emails for spam. I initiated the conversation because i received a spam myself and i thought that if she were to receive it herself she would have clicked to the provided link. It lasted 10 min more or less. I advised her to check always the email address that sent the email and to be sceptical when receiving texts like "urgent' etc especially when they appear to come by her bank or state related accounts.
+----
+I had a conversation with a colleague at work. It was in our office. He had to update his password, and was complaining about how often he had to update it and that he has many passwords for different work systems. All of these ask for new passwords at different times. We also discusses multi-factor authentication and the challange of this across so many applications. It lasted a few minutes.
+----
+Myself and my partner had a conversation about this earlier last week. I used public wifi to log into my online banking and my partner reminded me of the security risks of doing so. The conversation took place in a shopping centre. The conversation lasted 5-10 minutes. I remember feeling naive. 
+----
+With my team. It took place in our office, we talked about securing our red network ro make the system better due to software updates. What triggered it was a change in software that may have cause some loopholes in the security system we have installed. It lasyed about 15 minutes. 
+----
+At my work orientation. I was a new hire and the IT manager had two trainings with us discussing my new company's technology policy and things to be on the lookout for when browsing the web, opening and sending emails, strong password tips, and opening links/urls. It lasted about 3 hours total. 
+----
+I was talking to my wife at home. The conversation started when she somehow found a website that redirected her to a website with a virus where some windows popped up. Then I explained to her that it was some kind of virus and you have to be careful what you click on online. Our conversation lasted about 5 minutes.
+----
+I was discussing with our Data Protection Officer (DPO) about a piece of software we wanted to install on the internal extranet space. It is an open-source statistics software that is regularly used in academic settings, and requires an Internet connection to download packages for us. We conversed over email and Teams calls to discuss the safety of the extranet (which does not connect to the Internet) and an ask if we could access it to make full use of the software. We were struggling to do the complex statistical analysis of data we needed as we couldn't access the full features of the software. The controls are in place due to our use of sensitive educational data, but we argued we had anonymised this data completely of any context in this case. The conversation spanned two weeks back and forth.
+----
+The last time was a week ago where I was talking with my friend and flatmate from university, where we discussed how a couple years ago, he decided to take on the challenge of applying to the MI6. It was a conversation that rose from speaking about general topics, and this cybersecurity conversation lasted for around 10 minutes, as he spoke about his experience, which was intriguing.
+----
+I talked to my mom over the phone because we live in different countries. We talked about phones listening and recording our conversations, which it's weird because we were talking on the phone. She was telling me that one day she was on the phone with my aunt and she was telling my mom she wanted to buy a fridge. The day after this conversation my mom started receiving fridge ads on her computer. My conversation with my mom lasted about 10/15 min
+----
+I was talking to my sister about online shopping and payments and the possibility of losing data through such payments.
+The conversation started with the usual topic of shopping.
+----
+1) Me and the bank employee
+2)  the conversation took place at the bank.
+3) The last time i talked about cybersecurity was when i expressed concern about the information that bank can share with third-party service providers without my explicit consent. 
+The conversation lasted 10 minutes
+----
+I chatted about cybersecurity with a colleague, about how data hacking and hacking prevention was an ever-evolvcng landscape. The defenses get better, then the hackers find a way around, then the defenses get better, etc.
+----
+We were talking about internet security and how our data is compromised. With my cousin who is tech-savy, like the cell phone listens to us and then ads come up about what you are talking about.
+----
+One other person and myself 
+We were talking at home 
+How to make our online banking easier to use but secure
+How safe is online banking 
+On and off for most of the day
+To make our banking more secure 
+----
+I was talking to my friend at university about a cybersecurity attack that happened at my federations school and was explaining what happened to me and what they wanted in return for the schools data to be returned but also the actions that the school took place to ensure that this didn't happen again. The conversation lasted for around 25 minutes and started when they were questioning why we have to use two- factor authentication every time we log into our university accounts
+----
+Just this morning, I read a news about a possibile data breach in MS sharepoint servers. I discussed this news with some collegues of out Cybersecurity branch, probably for about 15 minutes, alco because I need toknow if there are any internal impacts.
+----
+It was a conversation with my friend group about one of my friends having most of his passwords leaked recently in a major leak which resulted in him having to dig into all his accounts to set up 2FA, change passwords etc. The conversation lasted for about 2 hours and expanded into potential risks in the future world of technology and what he can do to be more off-the-grid and safer.
+----
+1. my husband
+2. at home
+3. The recent M & S cyber attack
+4. Seeing the news on the internet
+5. 5 minutes
+6. No
+----
+I was having the conversation with my elderly father .He had been asked to make an online payment to his solicitors to cover the cost of an amendment to his will.He was looking to do the payment through his online banking app but when he tried it the app threw up an error regarding the business account name .We we’re at my dads house ,the conversation lasted approximately ten minutes .My dad is very nervous and reluctant to put him credit or debit card numbers into any online payment system and panics if an error is flagged.
+----
+Last week, I chatted with a friend when we went for a coffee about cybersecurity after he got a suspicious email. We talked about phishing scams and how to spot fake links. The conversation started when he mentioned he was really close to click that link. We spoke for some minutes about it.
+----
+I was talking to my brother whilst at home as he asked me if I had seen the news article regarding misplaced paperwork on a train that showed a data breach.  It lasted around 6-8 minutes
+----
+About a month ago I had a conversation with one of my colleagues about a security incident that happened in on of our projects. The conversation took place online in a chat application. We were discussing and were trying to find why one of our API keys was compromised by some hackers. Those hackers were able to retrieve the API key and the used it to access our Mailchimp account. Then, they started sending scamming emails to customers. This conversations started when we first noticed the unusual email activity. It lasted about 4 hours. At the end we were able to find out what happened and together we fixed the security flaw.
+----
+It was a conversation with me and my father. I was sitting in my parent's kitchen. My father had asked me to log into his email account on my phone. When I did so, I got a message up saying that his password had been compromised in a data breach and needed to be changed immediately. I had seen this message many times before when logging into online accounts belonging to my parents. I told him that he needed to change his passwords on all his accounts (as he uses the same password for multiple accounts) and he needs to change it to a more secure password. I said he can use Google to find information on secure passwords. The conversation only lasted about a minute. He made a non committal reply and I remember being frustrated because I've told him multiple times over the last few months that he needs to change his passwords to more secure ones, or he'll end up getting hacked. It annoyed me because I'll be the one he'll come to for help if he gets hacked, but he never listens to what I says and he never changes his password. 
+----
+I spoke to my manager and some colleagues when we were being trained on cyber security.  It took place in APril and was a 4 hour course.  We were told that this was a raised threat and that we needed to be more aware.  We were told that although this was a workplace course a lot of waht we would learn was relevant to our home lives.  We leant that there is a high risk and mostly it comes from people trying to be helpful e.g. someone follows you into a building and says they have lost their pass but in fact they are trying to gain access.  We leant about phisghing emails and about how they are now better copies than ever before but that we needed to look at the emial address, check the spelling and not ever to open any attachments,  
+----
+We spoke about this in a meeting at work to ensure that we were not opening phishing emails as they were becoming more common. Our Head of digital talked us through what to look for for about 20 mins. It was really useful and he showed us what to do even if we were just a little unsure 
+----
+I recently had a conversation about cyber security with a colleague at work during my lunch break. It started with him a new wave of phishing attempts that had hit employees inboxes at our company messages pretending to be internal messages asking them to reset their passwords. The conversation flowed naturally, as someone on our team had repotred that they had clicked on a suspicious link. We began to exchange experiences and opinions about how people in general fall for such messages, despite being warned about then every turn. I mentioned that it is not the technology itself that gives the most, but the awareness of the ursers. We also touched on the topic of two-factor authentication and wondered whether code-generating appas or physical dongles, like YubiKey, are a better solutiuon. A colleague mentioned that the IT department was planning to implement mandatory cyber security training, including phishing simulations. I agreed that this was a good step, but suggested that the training should include concrete examples of real-life attacks, because then people get more involved. The talk lasted maybe 15-20 minutes, but it was really specific. 
+----
+On Saturday myself, my husband and two friends were enjoying an afternoon in our local city, visiting pub gardens and drinking and eating.
+We were approached several times by homeless or disadvantaged people begging for food or money.
+We noticed one lady in particular who was being a little bit of a nuisance, by persistently asking, even though she was drinking from a McDonald's cup and eating a burger. She was in the vicinity for a couple of hours and we noted that she was given food or money several times. She appeared to be getting more and more intoxicated, as if there was alcohol in her cup.
+We saw that there were many CCTV cameras located around the city square where we were and wondered why they hadn't alerted the police or security to this lady and several of her acquaintances.
+We talked about what was the point and expense of all these cameras if they didn't help in keeping our public spaces clean and respectable?
+We probably spoke for 20 minutes on this subject, before we moved on ourselves.
+----
+I was chatting with a friend at a cafe about a big hack in the news. We talkes about how people still fall for phishing and use awful passwords. It was a quick, casual 20 miunte chat but made me realise how many people don't take online security seriously until it's too late.
+----
+The last time I talked about cybersecurity was with my friend Manolo on Discord. We were discussing a recent Android security breach. The conversation started when we were talking about an app that had some suspicious behavior. That led us to talk about how Android handles app permissions and recent vulnerabilities. We shared some links and talked about how to protect our phones for around 10 minutes.
+----
+I had this conversation with two other friends on my friend's house at night. We were talking about having a vpn how it's usefull and how to use it. We were talking about ways to watch shows on platforms that are exclusively available in other countries, so an idea to overcome this was a vpn. We talked about 6-7 minutes. We referred to some well known vpns, their prices and if we should give it a try.
+----
+My friend who is studying cyber security it took place at the college campus we talked about cyber security and how to secure your account and passwords two factor authentication. The conversation lasted about 10 minutes I remember that she said the course was quite difficult lot of things to learn
+----
+I was talking to my best friend about the new Facebook ads. I have to use personalised ads if I don't want to watch 6 second mandatory ads. That's such coersion. Either pay with my personal information or watch ads. I commented on that and we shared our thoughts on it. We both agree it's despicable. 
+----
+1. My coworker friend.
+2. In the office.
+3. About plugin cellphone into desktop station.
+4. Friend pluged cellphone into desktop station to recharge it.
+5. 30 seconds.
+6. I told that outside devices shouldn't be plugged into stations but i was ignored.
+----
+The conversation was with my brother who is a cybersecurity engineer. The conversation took place on the phone as he lives abroad. I sought his advice after the Marks and Spencers hack as they held my data. The conversation lasts about 20 mins and he gave me advice about changing passwords for everything and extra vigilance for e-mails and possible SMS messages
+----
+it was a conversation at home with my wife in which she told me that an acquitance had been scammed through internet fraud, and we talked for about ten minutes about how we have to be extremely careful with cybersecurity
+----
+I was wondering what I could use to track my passwords since I wanted to keep everything safer in a way that I can know all of my passwords without forgetting any. I asked my boyfriend since he works in cybersecurity (on the attacking end), he recommended me a specific password manager to keep all my passwords. I asked some further questions about the safety of it since it stores all your passwords and he did mention for himself he keeps it stored in a virtual machine to not have it on his own computer but I didn't really want to use a virtual machine. He then explained to me how people can easily find a file no matter where you keep it on your computer and we discussed on that a bit more. The whole conversation was probably still about half an hour.
+----
+I talked with my son at home. He asked how to keep his phone safe. we spoke about not clicking bad links and using strong passwords because he got a weird message and wanted to know if it was safe. it lasted about 10 minutes.
+----
+I was talking to my wife this last weekend while at home about cybersecurity.  We were talking about careers, especially since I am unemployed at the moment.  I was talking about how I'd recently been looking in to finding more information about a career in cyber investigator.  I recently obtained a Google certificate through Coursera for Cyber Security and enjoyed the course.  The conversation last about 20 minutes until we started talking about a different topic.
+----
+i was talking with a friend from work. The conversation took place in the break room at work. The topic of discussion was Russain ceberattacks on polish websties and disinformation on portals x and facebook. The conversation leasted aboud 10 minutes
+----
+we have a company wide IT learning course. Our IT deparment will send fake phishing emails to random people to test there ability to find a fake. they make a report and we all meet to talk about the findings as a group.
+----
+I was having a conversation with my Uncle-in- law about the internet. The topic of email and passwords came up. Specifically we talked about password strengths and things potentially leaking due to database breaches. He talked about how it's important to have a really strong password but to not use it again on other websites because of potential breaches. The conversation lasted about 15 minutes total.
+----
+My husband and I were talking in our bedroom about cyber security. I got a text message of someone I didn't know and I thought it was a wrong number. He told me I should not write back because it is probably a scammer and explained the scam to me that they can install malware on your phone if you look at a picture they send you. It lasted about 3 minutes and I deleted the text.
+----
+I was talking to my ex about cybersecurity last year when we were together. He went to school for cybersecurity. I learned that you pick locks and learn about the pineapple. If I had to guess the conversation was probably about an hour crash course. He would always make sure I was cybersecurity aware, even though I learned about cybersecurity at my job. The trigger of the conversation was because someone was texting me that I did not know who. I had to do an update to my phone and let him work out a few bugs. 
+----
+I was talking with my daughter at my house about my phone and she said I really should have a lock on my phone. It was a very short conversation.
+----
+My brother and I had the discussion about cyber security. We were at our parents house for the Fourth of July. We talked about how scary it can be not knowing truly how safe your personal data/information is. We were casually talking about Cryptocurrency and it came up naturally talking about how secure some of the "wallets" are and then that is when Cyber Security was mentioned. We talked for a good twenty minutes or so about it before we then got distracted by the fireworks. I remember thinking I needed to take extra steps to make my information more secure.
+----
+Me and 3 friends were talking about what passwords we use for our emails while staying in an airbnb in southern UK. I dont remember what triggered the conversation but it lasted about 10 minutes. I vaguely remember talking about how someone read that is recommended to use passphrases instead of passwords.
+----
+My son-in-law is interested in the field of cybersecurity and has considered finishing up his degree. I was not that familiar with the field - but he talked a little bit about it and his interest in it. It has been an ongoing discussion because it's his career pursuit - but he has not decided to go back and finish his degree as of yet. He was not sure that the college he attended had the best offerings in that department. 
+----
+My former head of HR department and I were talking about a local incident that took place involving cybersecurity breach. We had this conversation in my office when she had come to talk about an unrelated topic, and I had asked her what happened. She said that someone hacked into the county's database and now selling homes is not as fluent as it once was until they get back full control. The conversation lasted around 15 minutes and I remember being shocked that it happened in such a small area. 
+----
+My friend and I both have invested in crypto currency. However, there was an incident late last year when an individual had hacked people's investments and had gone away with millions of dollars. Therefore, my friend and I were discussing issues relating to cybersecurity and how insecure we felt not only as investors but the potential of future threats in different domains. Our discussion went for long hours and we agreed to change our passwords to more complex ones to avoid been hacked. 
+----
+I spoke with my mother at home about cybersecurity, but mainly because she has a tendency to believe anything she reads that's negative, but also anything she wants to be positive. In this respect, she ends up getting into conversations which border on being scam or phishing situations, and I have to warn her. She does learn eventually, but it usually takes a lot of arguing about it, since she really wants things to work out her way. These conversations last about half an hour, and have a lot of looping involved. I usually say how it's important to be aware of issues online, and basic information which is common knowledge, how to protect your data, and how to be aware of scam situations. These topics I've learned over the years from training and watching content online. Especially for older people, it's difficult to get them to understand things the same way as people who have grown up in the digital age.
+----
+At a previous occupation, I remember a team meeting where we took the time to discuss cybersecurity updates and concerns. The team leader took the chance to share updates from the IT Department and made sure everyone understood any changes. We also talked about any questions related to our accounts — i.e., passwords, difficulty logging in, etc. This was monthly routine to make sure everyone was on the same page. The meeting was about an hour long. 
+----
+I recently talked to one of my friends online in a messenger app about it. I recently bought a a new laptop and asked whats the best software to get against attacks. Whats the best way to make sure I have strong enough passwords etc? My friend works as a tech adviser for a cell phone company so I trust hos advice. The conversation lasted about an hour. He gave me some recommendations and basically I feel like the chance of being attacked are significantly down.
+----
+I remember my spouse and I were reading information about the leakage of a lot of passwords and login's from major places such as Facebook, Telegram, etc. We've talked about how can these passwords be exposed. My spouse said that it was probably old information, so we researched whether it was old or new and couldn't find anything. So, in conclusion we couldn't come up with why the leakage happened and what leaked it. And what particular information that we had there is now on dark web.
+----
+I had a conversation with my best friend about this topic a few days ago. We talked about it while going for a walk. The conversation started because I wanted to break away from BigTech and move more towards open source, for example by hosting services myself and using fewer cloud services. We also touched on this topic and discussed the pros and cons.
+The conversation lasted about an hour.
+----
+I was in the car with my boyfriend. We talked about how here in Italy call center can call you as much as they like, and they get your number through websites that sells data to big corporation. The conversation was triggered by a phone call my boyfriend received, which was from a call center, trying to sell him a plan or something. It last about 10 minutes.
+----
+1 - I was talking with a close friend of mine, who is non-cybersecurity person.
+2- It took place at my home, during his visit.
+3- I explained him how MFA itself is not enough for security. Where SMS and phone call are weaker forms of MFA and it is possible to spoof phone numbers. Also I explained even regular MFA using authenticator apps could be bypasses using proxy based attacks.
+4- Conversation triggered by talking about bitcoin and how some people lose it.
+5-We talked about it around 5-10 mins.
+6-It was a casual conversation, provided actionable items where the friend can take to protect his bitcoin.  
+----
+I was talking with some girlfriends of mine the other day at a park. We were having multiple convos about random things and we mentioned an influencer that got her account hacked and deleted, then she had to create a new one from scratch which made her lose a lot of followers and brand deals.
+
+We talked about how it's becoming very common to get hacked. The conversation started by one of my friends saying she didn't remembered the password to an old account and couldn't retrieve it.
+
+It lasted a few minutes and then we changed to another topic. We still talked about how it's safer to have 2-step verification and be on top of our passwords, being careful, etc. We even joked that we should change our passwords since they were the same for years.
+----
+I talked about cybersecurity related issue with a friend when setting up a acount for him online. 
+The topic was regarding what password to use and how he would remember it. The conversation was short and easy.
+----
+A few weeks ago, i mentioned to a colleague at the office the strict restrictions my company has on internet access, after i couldn't access services like Google Drive or send images via Discord.
+It was a short conversation.
+----
+My friend asked me how they can tell if a file is safe or not, and I asked them if they had AV software installed on their system. They said they did, but they still wanted to be sure. I told them to upload the file to virustotal website if they are still unsure. They uploaded it to virustotal, and virus total said it was clean. She was pleased, and decided to bookmark the website for future reference. It was about a ten minute conversation.
+----
+My daughter told me by phone that her internet was down. So, she looked up the customer service number online and called them. It turned out it was a scam number and t hey tried to make her send t hem money to fix it. The conversation lasted about 5 minutes
+----
+It was a conversation with my mother, who is elderly but know how to use the Internet. It was at her place. She was concerned because there are many news regarding bank scams and wanted to review with me her security measures for checking online banking. It lasted about 20 minutes. 
+----
+It was a conversation with a colleague. We received an email in our office regarding a hacker attack. The email stated that if we did not pay 10000 pln within a few days, all company data as well as private videos and photos of employees, would be leaked online. It lasted 5 mins and the manager ordered us to delete an email.
+----
+The last time I talked about cybersecurity was two weeks ago, I was chatting with my sister on the phone and I shared a recent phishing attempt I personally went through. I received a very convincing email claiming to be from a talent scout from Tik Tok who was really interested in signing me up and make me worldwide famous. The conversation happened because she went through something similar and it lasted for something like 15 minutes. One last thing I remember is telling her about the increase of phishing emails in my inbox.
+----
+Last time I talked about cybersecurity was with my mother. She was scammed in whatsapp by someone who was acting as me.. He asked for money to buy a new phone and to pay some bills. Luckily she acted quickly with my help. Although the money transfer was made, She was able to retrieve everything after a month or so..
+----
+I was with a friend of mine and a university professor at the univeristy bar. We talked about the potential risks of cars connected to the internet and the possbile ways of hacking them. The conversation started with a question from my firend to the professor and lasted about 30 minutes.
+----
+My online friend was telling me on Discord how they lost a lot of their files because they forgot the password to one of the accounts on their pc. The files weren't backed up. I am unsure of the details but they were unable to recover access to that account. I recommended they start using a password manager and start backing up their files. It was a short conversation, maybe 15 minutes at most. The topic was brought up because we were supposed to do something together but they had spent the whole day scrambling to find a solution. 
+----
+I talked about it with my grandmother at her house. We talked about how she could protect herself from being scammed. It was basically triggered by some kind of weird facebook bait link, talking about something crazy happening, but being actually scam link that is trying to force you into logging into your facebook account. It last for about 30 minutes.
+----
+1. My colleague
+2. In our office
+3. About phishing emails that we as a company get from time to time
+4. She got a suspicious email and asked me about it
+5. 10-15 Min
+6. I explained to her how to recognize phishing emails and what might happen if she does not follow the rules
+----
+Ich habe mit meiner Freundin am Telefon über einen Zeitungsartikel gesprochen, in welchem ein Mann die Sparkasse verklagt hat. Durch einen Scam wurden ihm 60.000€ vom Konto gestohlen, die Bank trug allerdings eine Mitschuld wegen der fehlerhaften Umsetzung von 2FA. Da ich in der IT arbeite, habe ich ihr daraufhin noch einmal nahegelegt, bei allen wichtigen Diensten die 2FA einzuschalten.
+----
+I talked to my mom 2 weeks ago. What triggered the conversation was that we were discussing about shady websites and emails. My mom getting an email from a canadian telecompany. We talked for 15 min. 
+----
+1) A friendly neighbour
+2) At my home
+3) We talked about using Generative AI such as CoPilot when writing some text
+4) A conversation item that society has changed so rapidly 
+5) 8 minutes
+6) We talked about the danger that such innovations can do to society
+----
+It was an informational talk in a lecture hall at the university, to which the entire campus was invited. The trigger was a hack attack on the university, and the talk lasted about 60 minutes. General information was shared, particularly about phishing emails.
+----
+The last time I talked about cybersecurity was in a conversation with my mother at her home. I should note that we're both not very knowledgeable about the topic. She was concerned that someone had access to her Google account since she repeatedly saw the car of a relative she's had issues with in the past at locations she visited when doing chores (at the doctor's office, while visiting the bank, at the grocery store). We arrived at the conclusion that she should ask an expert in the field instead of relying on me since I was out of my depth.
+----
+In-person training at work, we discussed what triggers/causes etc. of cybersecurity can be. It was mandatory, lasted 45 minutes, and helped to bring this topic into focus.
+----
+I was speaking with my colleague about the recent cyberattacks in Russo-Ukrainian war. The conversation took place in our company office. I was mentioning the russian cyberattack on Ukrainian power grind back in 2015, were two regions were affected by the cyberattack. We were discussing certifications and a topic of security was brought up and we were discussing cybersecurity in more details, how it impacts many aspects of life. I think we were discussing this for 20 minutes.
+----
+A few months ago, a friend of mine received an email claiming that one of his accounts had been hacked and that he needed to click on a link and create a new password. We were fairly quick to realize that this was phishing, so we had a quick chat about it and I explained exactly what it was, as he wasn't very familiar with the concept. I also showed him how to set up two-step verification and recommended a special password manager. The conversation lasted about 15 minutes.
+----
+I was talking with my cousing because there was a breach in her facebook account. I had a request from "her" to pay for her shopping but on messanger. I called my cousin she said that her account were hacked and that she clicked on wrong pishing site and her facebook data was stolen. It was somewhere like 1 month ago. After that i called my mom and sister to tell her that Kinga's (my cousing name) facebook account was stolen and to do not fall for a payment scam scheme. 
+----
+I work in IT at a government service and there was a call that my colleague (also IT) answered. It was another colleague that was concerned about an e-mail she received. The e-mail was claiming to have been sent by the Police and it stated that a fine had been issued due to the receiver's visits to illegal web pages. Of course, this was a phising e-mail, but our colleague was concerned.
+After reassuring her that it was a fake, we gave her some quick tips on how to detect e-mail frauds.
+After she hang up the phone, me and my IT colleague continued our conversation about how many of our colleagues cannot easily identify fake e-mails.
+The whole conversation lasted about 30mins
+----
+That was actually just yesterday. A colleague and I were discussing passwords for the employee portal, where we can view our pay slips and submit requests, for example.
+
+My colleague was sitting in the office across from me. The conversation started when she mentioned that she had to change her password. I asked why, and she said that you have to change it every few years. For context: my colleague has been working at our agency longer than I have, so it wasn't time for me to change mine yet.
+I groaned and said that I had already had extreme difficulty finding a password that met the site's requirements. The thought of having to come up with a new password again was frustrating, and I told my colleague so. She expressed understanding and said that she writes this password down in a Word document.
+
+After about two minutes, the conversation was over and we went back to our work.
+----
+Regular occupational safety training sessions on data security and cybersecurity are held. The discussions take place at the company. Topics include data protection, identity theft, password protection, etc., data security, and data breaches. These sessions are prompted by the fact that incidents continue to occur at various companies. The training sessions and discussions vary in length, usually lasting between 30 and 60 minutes.
+----
+I was talking about cybersecurity with my mom. I was talking on a phone with her, how much AI is scary and it is so easy to make a lot of pictures without my permission with using just my face. I don't remember what triggered the conversation, we were talking about computer or something, that's why it started I guess. 
+We didn't talk a lot about that, just more like oh it is scares me, oh true it is real problem and that's it. Usually I don't talk about cybersecurity with my friends. 
+
+Sometimes I talk with my boyfriend about bots and spam that influence social media for example about war in Ukraine etc.
+----
+I talk with a friend , it was in his home , we talk about cybersecurity on banking applications, sometimes we received fake emails with exactly the design of the bank internet site or with the design of sites like paypal but it's fake, my friend show me an example of this on his smartphone.
+We talked thirty minutes about this.
+I said that on the fake site there are a lot of spelling mistakes but my friend sais that now there is no mistakes.
+My friend also said that now with the I A all the conversations could be listened and recorded if the smartphone is open so now he close his smartphone when he talks about confidentials matters
+----
+I was talking with my roommate in our living room about how the phone is eavesdropping us, it took place beacuse we were talking about a certain topic, and minutes later, we saw post of this topic on social media, it lasted less than 2 minutes.
+----
+i talked to my friend about cybersecurity. I talked about setting the moste secure password possible. The more letters, numbers and special characters., the better.  Its  also best to write down these passwords in your head, instead of on a piece of paper.
+----
+Today, we discussed about why Wordfence Plugin was disabled. We as consumer questioned vendor why it was disabled. It was disabled because something was not working on website, but vendor didn't informed us about it. We concluded taht prior to actions he must informed us. 
+----
+My partner and I recently in a call, talking about nation security in Spain, the topic of the last electricity shutdown appeared. Which not only affected Spain, but also the nearest countries around it. It lasted about thirty minutes since we talked about what happened, how we felt and also what would we do in the future is something like this ever happened again. The shutdown left everyone without electricity, and also without being able to communicate with people. 
+----
+Me and my friend talked about a situation briefly a couple of days ago in a cafe. He mentioned that his company recently sent out.a "suspicious" e-mail to all of their colleagues and some of his colleagues have failed this check. 
+This e-mail contained a button/link they had to follow and if you did, then you failed. This was some sort of attention check the company does with them, they want to make sure that the employees do not follow unauthorized link and fishing e-mails. This happens from time to time, a few times in a year. The message looks like a genuine message where the colleague ask to follow a link - there are a few hints to know if the message is a fake one. 
+
+He mentioned that he had failed once so he tries to keep his eyes more open. 
+
+I think it might be a good solution and beneficial to teach the people to not clicking on every e-mail, no matter what the content say as they could install viruses easily. 
+----
+Actually I had a conversation about cybersecurity with a colleague yesterday, because of the temporary close down of some network and cloud facilities on our work. This is being done because of a newly found vulnerability in Microsoft onedrive. We talked for ten minutes on how we feel about these vulnerabilities and how our company is at risk and being affected.
+----
+few days ago i was chatting with a friend over coffee and we ended up talking about htat big data leak from ticketmaster. He mentioned how account got flagged and he wasn't sure his info was safe, we talk ed about how crazy it is that even huge comapnies get hacked, the converstation about this subject lasted maybe 10 minutes and he adviced me to change my passwords regularly because you can never trust even the big tech companies themselves
+----
+I talked with my relatives about the increase in scamming and how careful you must be when you are online. Unfortunately my relative lost a lot of money because scammers found him and with the help of anydesk were stealing all of his money. He doesn't understand a lot regarding the technology and they convinced him that they will help him earn money. He also sent them his indentity ID. We talked with him and we are not sure how we can help him or how we can retrieve at least some of his money. I wish there was a way to protect people who aren't so familiar with the technology especially elderly people and kids. 
+----
+1
+It was me, Marta from IT, and Javier, another admin assistant. We were just chatting during a coffee break.
+
+2
+In the office kitchen, right next to the printer. We were standing around, having a quick break.
+
+3
+Javier got a sketchy email pretending to be from Correos, and Marta said it was phishing. She gave us some quick tips to spot fake emails.
+
+4
+Javier showed the email out loud like it was funny... and Marta immediately got seriou That kicked off the whole chat about online scams.
+
+5
+Like 15 or more maybe 20 minutes, n. Time flew because it was actually super useful.
+
+6Marta said most cyberattacks happen because someone clicks something without thinking. Since then, I always double-check weird links or emails...
+----
+The last time I talked about cybersecurity with someone was my aunt about a month ago. Her Facebook account got hacked and the person who did it started sending messages asking for money. Few people including me contacted her, she contacted the support, changed her passwords and got her account back few hours later. She didn't have the 2FA set up and someone just needed to guess her password. We talked about how important it is to use unique passwords and secure the account with as much steps as possible.
+----
+I spoke with my family members about updating/changing passwords regarding a databreach affecting big companies, such as Google. We were all at home and saw it on the news. I helped my parents change and save their new passwords. The whole event took about 20 minutes, from reading the news to confirming the new passwords.
+----
+I talked to my cousin about passwords in a cafeteria for half an hour because there are a lot of problems about cybersecurity nowadays. 
+----
+1) head manager of cyber security police department
+2) meeting place
+3) cyber security issues
+4) social media vulnerability
+5) 2 hours
+6) it was very useful
+----
+I was talking to a friend at a party about phishing attacks - I remember we discussed an article about an attack on the London library. He brought up the topic. I remember being surprised that the attack was so subtle. I think it was sent as a job application.
+----
+My girlfriend, we were at home and were talking about logins and re-using passwords. She was making a new account and was thinking of using an old password and I talked with her about why that was problematic for maybe 3-4 minutes.
+----
+My Dad was concerned about getting viruses on his computer. I asked him if he had any anti virus installed. He didn't so I pointed him to one. 
+----
+I recently did a data center tour in a nearby city. While driving to the city, I was also carrying our security director as a placement. The conversation during the trip weaved in and out of topics that included a cyber security/threat actor incident we went through together in 2023. We talked about the threat actors and improvements that we've made since. It lasted on and off for about two hours.
+----
+I had a conversation with my boss about cybersecurity last week as there had been an attempted security breach on our bank. So we had to up our security and plan any future breach issues
+----
+I was talking to my mum about the M&S cyber attack and we couldn't believe such a huge company had had such a dramatic attack and that their entire operation had almost been brought to a standstill. We spoke about it as we both shop there a lot. It was triggered because it was all over the news and everyone was reporting on it. We also had upcoming holidays and wanted to shop online and could not do this. 
+----
+M&S had their online business hacked which had a huge impact on the whole business, they could not take online orders, customers details were at risk so everyone had to change their password. There was a shortage of some things instore and it was costing M&S millions of pounds per day. The problem went on for several weeks and even when it was sorted it took a long time for things to return to normal.
+It was triggered by a news report that I was watching at home and I spoke with my husband about it. We probably talked for about 10 minutes about the problems and implications 
+----
+The head of our IT group in our company gave a talk not long ago. It took place at a venue in the city of London often used for our conferences. We talked about "when" and not "if" our company will be affected by cybersecurity issues. Perhaps the conversation was formulated that way to remind the employees that they need to be extra vigilant. The conversation and presentation is a regular meeting in town. It lasted two hours. 
+I recall people asking questions regarding use of personal emails to send and receive files to their work emails. 
+----
+I was speaking to my partner about cybersecurity as we were driving on a recent road trip we took. We spoke about the use of AI to plan day-to-day activities and bigger events such as holidays. We spoke about how when we asked the AI chatbot to tell us what it knew about us, it was slightly alarming how it responded. The conversation was triggered when using chatbots to give us ideas on what we could do on the trip we were on. The conversation lasted around 10 minutes. I remember being concerned and wary of using personally identifying information when asking advice or seeking recommendations to try and keep myself as anonymous as possible.
+----
+I talked with my wife about the importance of not clicking on social media and email links. It was over lunch when we went for a pizza. My wife is click happy on links and is very trusting. If she can see it on facebook then it must be ok. We talked about not clicking links. A guy at work clicked on a link that looked good but it was a phishing attack. He had to go to a disciplinary interview (outcome not known). I was able to provide an example from my phone of a link that looked good but it was a phishing link. At first my wife was sceptical but became convinced after talking. I guess it lasted about 10 minutes.  
+----
+Speaking with my mother, in the kitchen, making coffee and scones, discussing an article I'd read on BBC News site about how commonplace cyber attacks on UK businesses are, how vulnerable businesses, even large ones (Marks and Spencer, Harrods...) and often pay ransoms rather than reporting the crime. My mother remembered watching on the news about data breaches and customer information being stolen. The conversation lasted 5 minutes, part of a wider discussion about integrity, morals, ethics, political and business leaders.
+----
+My mothers Amazon account was hacked about 2 months ago. I went to her house, and we talked about how to get her account back and how to improve her account security so that it does not get hacked again. The conversation lasted about 1 hour, where we were trying to figure out why she was being charged for things she never ordered. I then helped her change all of her passwords. We also talked about different ways that hackers could have gotten access to her account like sending a phishing email or a website link to her text messages.
+----
+I talked about cybersecurity with my co-workers, at our lunch break. we were talking about using file sharing platforms like wetransfer, when sending confidential or more sensitive information documents. what triggered it was the update of terms & services from this company and others. we talked for a few moments about it, discussing if the files would indeed stay safe and if there were any other alternatives 
+----
+The last time I talked about cybersecurity was on a Zoom call with my project team. We were discussing the safety regarding collecting mental health measures via online surveys and how secure they were. We talked about this for about 30 minutes and discussed data encryption and passwords. It was useful to think about how to best protect our participants' data.
+----
+Myself and my manager were discussing GDPR in the office after an email request from someone came in regarding an order placed by a relative of theirs. My manager and I briefly discussed this and concluded that we could not share any details with them, and that if it needed to be discussed, the person who made the order needed to contact us, which we relayed to the person who initially contacted us. The conversation probably lasted a few minutes.
+----
+- Myself and another engineer
+-At work
+- A potential issue we had on our platform that could have caused a security issue.
+- Something found during security testing
+- 10-15 minutes
+- We discussed what was required to further investigate and fix the issue.  
+
+----
+I talked to my mom about it a few weeks ago while we were home. I said she should be careful and not click links she doesn't know because I saw her click a link she shouldn't have.
+----
+I was discussing the topic of the Stuxnet worm with a colleague at work.
+We were talking about interesting and sophisticated hacks, the conversation was taking place during 2014, and Stuxnet came up. I'm pretty sure I had just watched a documentary or some video about it and shared the interesting details as part of the conversation.
+We discussed the potential authors of the worm and who had the capability, agreeing that it had to have been state-sponsored. We talked about how it was impressive that it was very targeted and that it went undetected for such a long time at the Iranian facility. 
+We talked about how it was able to get into an airgapped facility by probably a usb stick being dropped nearby. And how it was smart to go and find the machinery that spins the centrifuges and how it sped them up and then slowed them down, essentially preventing enrichment whilst going undetected for a long time.
+The conversation lasted around 10 minutes, I think.
+----
+Not too long ago I had a conversation with my brother about cybersecurity. His credit card number had been stolen and I can relate to it because mine has been stolen in the past. We discussed how it might of happened and who he should call about it. I told him to call is credit card company to freeze the card and to get a new one. 
+----
+Myself and my colleagues in our office. We were discussing a cyber breach at a university that resulted in emails being sent out with insulting names in the personalisation field. Someone had seen the university statement online which got us talking. The conversation probably lasted 5 minutes.
+----
+Local council had been hacked and schools had lost access to all of their systems, this caused major issues including problems with my child's exams, I discussed this with various people at various times over a few months. This topic is still ongoing being discussed regularly 
+----
+I was talking to my son at our house about a recent cyber attack on his computer, the conversation lasted about 10 minutes and in the end he said formatted his computer in order to fix the problem
+----
+A friend had her email account hacked and was complaining about the inconvenience of having to try and and remember all the accounts it was associated with/the difficulty of changing her registered email address with some companies because they wanted to send confirmations to the hacked account that she no longer had access to. Initial conversation was probably about 5 minutes but was then referred to briefly in later conversations.
+----
+I was on the phone with the Home Depot credit department that is managed by Citi for another issue and I mentioned that perhaps it was caused by the massive data breach that had just been reported. I mentioned to the customer service rep that the leak apparently included millions of Hotmail and Google credentials (including mine which were tied to this Home Depot account). The customer service rep locked down my account as a precaution until I could change all my passwords there and elsewhere. The conversation lasted about 23 minutes according to my cellphone history of the call. 
+----
+I had a conversation with my mother about how she can protect herself against phishing attempts or attempts to defraud her online. The conversation took place via WhatsApp. The conversation was triggered by the fact that I changed my number on WhatsApp because I had signed a new mobile phone contract. I wrote to my mother to tell her that I had a new number and asked her to save it. She didn't reply to this message at first, but left it as “read.” It was only later that I found out from my girlfriend that my mother had contacted her to ask if I really had a new number and if everything was okay. She then wrote to me again and thanked me for the new number. We then talked a little bit about how proud I was of her for acting the way she did and how easy it is to be scammed by such tricks, especially since we often send money back and forth and usually discuss it beforehand via WhatsApp. All in all, the conversation only lasted a few minutes (about 10 chat messages exchanged).
+----
+It was a co worker before a meeting. We were in the break room because it was the only room big enough for as many people were in the meeting. 
+They talked about they started using an app on their phone that stores passwords and syncs with their computer so they don't have to remember anything. 
+He was fiddling with his phone trying to turn off something and I asked if he was going for a new high score as a joke. They were trying to turn the app off because it sends notifications and he can't figure out how to mute them so he turns his phone on airplane mode. 
+It was a minute maybe? Pretty casual convo, nothing serious. 
+----
+I was talking to my wife about cyber security as there was an attempted fraud on our shared bank account. The conversation lasted about 10 mins and we got in touch with the bank fraud team
+----
+I was at my first day of my job and I was opening job-related websites on my personal account, and my supervisor was surprised I was refusing cookies on these websites. It was only temporary till I would get my work laptop, but I wanted to avoid possible links to my private account and the way I store my data through cookies with my job field. I want to make the least amount of footprint possible while browsing the web, it's annoying that everything now wants to track you.
+----
+I was talking after a meeting with my former boss about wheter storing passwords in the browser cache is secure enough or not. He's an IT specialist, so he advised against it, but I find it really hard to remember lots of passwords by heart. It was a casual five-minute conversation, but ir motivated me to learn more about other internet security methods, like two-step verification or the use of security keys, and to become more aware of the importance of properly managing my passwords. 
+----
+my senior colleague was involved, the conversation took place in our office at work. We talked about VPN usage in the workplace and how it protects us, i was recommending a new VPN to my colleague who was unsure due to company policy but I assured him it was fine as the business gave me the go ahead. What triggered the conversation was my senior colleague seeing me use the VPN at work. The conversation lasted for about 10 minutes and afterwards my colleague was satisfied with using the VPN
+----
+Two weeks ago, when I was visiting my family in London, UK, I had a conversation with my father about cybersecurity. More specifically, the recent cyber attack on the Co-op Group in The UK. The cyber attack happened in April 2025. The reason we were discussing it was because there was a new news report, two weeks ago, stating that in fact every customer had had their data stolen. Where as in April it only mentioned some customers had their data stolen. We discussed the fact that the Co-op Group probably new this information back in April, and were probably trying to lesson the blow. We then went on to discuss the dangers of cyber attacks, and how everyone is at danger from this. The conversation lasted no more than 10 - 15 minutes. 
+----
+We had a staff meeting in person. The IT staff gave us all an overview of new regulations they were going to implement. The meeting last 45 minutes and they said because of new information they received they updating policy. 
+----
+A while ago, I was talking to my parents about internet safety. I tried to explain to them why they shouldn't click everthing that appears on their screen. I started this conversation beacuse there were many reports of fraud and identity theft online. We also talked about online banking and safe use of bank account.
+----
+1-coworker
+2-office
+3-phishing email pretending to be from one of our suppliers. It told us to make the payment of a fictitious invoice to a different account number than usual.
+4- the receipt of the fake mail
+5-a few minutes, until we knew that It was a phishing mail
+6-We were very surpised by the format of the email Since It copied very well the type of the invoice that the company normally send
+----
+We received a phishing email on our work email and someone failed it. Then we had to do a cyber security training
+
+----
+Some days ago I had the bad experience of been hacked and as a result my crypto account lost an amount of coins. I asked for help from my centralized exchange support and they talked to me about steps I had to take in order to minimize loss and to make sure this does not happen in the future again. I contacted them online. The conversation lasted about 30 minutes. It was very helpfuland they gave me some tips about cyber security.
+----
+It was my parents. The conversation took place at my parent's house. We discussed the fake links that are often sent via text message. We discussed how dangerous they are and shoulden't be used. They could lead to fraudsters hacking into bank accounts or stealing important personal information. The conversation began when my mother received a suspicious text message with a link. The conversation lasted about 30 minutes.
+----
+I was talking about it with a friend of mine. We were at a bar. He works at a company that does cybersecurity for other companies and we talked about what he does at work. It lasted about 30 minutes and I found it so interesting that I talked about it later with other friends of mine.
+----
+1. My wife
+2. In our apartment
+3. Security of data breaches from some app. General data security in huge corporations like Meta, and how they sell this info.
+4. Some online news
+5. Around 15 minutes
+6. Just this bitter feeling about how much we need to be aware of everything
+----
+It was a conversation between me and a friend who studies cybersecurity and I asked him about cookies at first. I explained to him that I am not fully sure what they are for and if I should keep accepting them because I feel I am giving access to websites to use my personalinformation. We then went onto talking about hacking and what would happen if our official documents were released into the public or even details of important govenment officials were leaked. The conversation was about 10 minutes as my friend is really passionate about this subject
+----
+Talked to a person who's job is a cybersecurity, and we spoke at the gym because the email was not working
+----
+The last conversation I had about cybersecurity was with the CEO of the company I work for, and the conversation took place in our meeting room. The conversation started because of an incident that happenned in a company we know. This conversation lead to us talking about how the situation could affect our company and how we can prepare to something like this.
+This conversation lasted about 20 minutes and ended without any practical intervention.
+----
+I was discussing in our apartment with my wife, the dangers of Microsoft's Recall feature. The conversation started when people online voiced concern that standard versions of Windows had received Recall updates, despite the fact it should not be present. The conversation covered the dangers of allowing any third party unfettered screen access. Concern was expressed as to whether Microsoft can be trusted, or it's own internal security, whether they would use the data gathered for snooping, training AI, etc. and the point at which it would be necessary to witch wholesale to Linux or BSD.
+----
+The last time I talked about cybersecurity was at work, with some colleagues. One of us had just received a strange e-mail and eventually we came to the conclusion that it was either a phishing attempt, or a fake email sent by our own security department in order to evaluate if the workers know how to spot suspicious messages and report them.
+----
+The last time I talked about cybersecurity was with my older brother (who works as a senior programmer and knows a lot about this topic). We were talking at home and I had asked him about his sign-in password to his Macbook because I wanted to use it. He had written down his password on a post-it note and it was very long and included a lot of different symbols and characters. He said it's important to have a long and unique password for safety, which I totally understood, but it was also annoying since I personally use the same password for everything.
+----
+1) I spoke with a friend of mine about security on social media platforms.
+2) We were sitting at the tables in the bar.
+3) My friend and I talked about Meta's artificial intelligence and how, despite the many advantages of using it, there are also many concerns about the online privacy of us users.
+4) We received a message from Meta (Instagram, Facebook, and WhatsApp) informing us that the company would use user data to train its artificial intelligence models if it obtained their consent.
+5) We talked for about 15 minutes.
+6) I remember that my friend and I refused to give our consent to use our data to train Meta's artificial intelligence models.
+----
+It was a conversation with my parents at home. They talked about never opening a spam mail since they just got another one. It lasted for about two minutes.
+----
+I was talking with a friend about passwords, how we travel through the internet and everything we do is registered. We were talking in a discord server, online, and were just "venting" about how, nowadays, we can do everything online, including access banks and whatsoever, and that while a clear protetion of data, everything we have can be taken from us in a few seconds. A "small" virus can empty our bank accounts, or can infest our computers and collect all passwords we have. It was a brief conversation, maybe 15/20min. I remember how we talk about the internet dependency and that things are not as secure as before, or atleast, our perception is different.
+
+Our main conclusion was very simplified "Or we trust in the apps/websites we visit, or  we will lose our heads overthinking about everything"
+----
+About two days ago I received some emails regarding attempts to log in to my Facebook account, and I talked to my husband about it. We investigated for about 10 minutes, even changing the password for this account and others (which had the same password). After that, for about 15 minutes, we discussed the fact that anyone can easily hack into our social media profiles and post stuff that isn't ours or write inappropriate messages to our family and friends, and this scared us a bit. 
+----
+Me and my friend were going for a run and we happened to discuss what is considered to be biggest data leak in history, I'm talking about the one that took place in June of this year with over 15 billion leaked passwords. It all started because he was telling me about how he doesn't have his credit card on his phone Wallet because he doesn't trust Androids like that haha. We only talked about it for couple of minutes. We came to the conclusion that probably nobody cares about either one of us data or texts or whatever! 
+----
+there were 2 people involved: I and a friend of mine
+
+the conversation took place at home (my home)
+
+I talked about the privacy of mobile phones, with all their personal data inside, that need to be locked from other eyes
+
+the conversation was triggered by recent news read from newspapers and heard on TV about hacking attacks
+
+it (the conversation) lasted only 15 minutes.
+
+I don't remember anything else  of important
+
+----
+The last time I talked about cybersecurity it was with coworkers. This happened in our office during work hours, and the conversation was started since all of us received a phishing e-mail from someone pretending to be our boss, asking for personal information, namely full name, address and date of birth. We talked about how we use 2 Factor Authentication to have good security, but still some of us receive fishing e-mails. We also talked about how our company goes about informing, through e-mails, what kind of care we need to take, such as avoiding repeated and easy passwords, avoid suspicious websites and how to spot fishing e-mails. This conversation lasted for about 30 minutes, during lunch break.
+----
+I met with 4 of my friends in cafe. We were talking about online shopping, which is what triggered the conversation. One of my friends began to talk about how phones are listening to our conversations to give us shopping recommendations. We were thinking about how companies are storing our data. We talked about it for around 10 minutes.
+----
+1. A colleague and I
+2. In the office
+3. Data security
+4. News about data security at Microsoft
+5. 5 minutes
+6. No
+----
+I, a front-end dev, a friend of mine who works with cybersecurity, and another friend of mine who is a backend dev, were talking about how companies collect our data, and to what point it should be done, and where we should draw the line of protection. We were talking during a friend's lunch. The telegram app, and the recent events of criminality on the app that doesn't collect or save any data, and its important to have an app like that, is it has implications for criminality, and how can we protect our dat,a and also the recent hackings of big companies. It took aprox 30/45 min 
+----
+I was talking with a colleague about how several government websites have recently been hacked in France, with very sensitive data being leaked. We discussed how these incidents show the urgent need for better digital protection. I mentionned that cybersecurity is becomming a top priority and that sector in recuiting heavily in France. It's clearly a growing field with a lot of demand.
+----
+I was talking with my sister. We were talking on messenger probably. We were talking about safety of using credit cards online - especially providing their number an ccv code on the website. 
+Thing that triggered this conversation was a fact that I was looking for new running shoes and I checked few webistes, not all of them looked safe. We had a situation where my mother bought things that never were sent to her.
+It lasted like 10 minutes maybe.
+
+----
+1.My sister and I
+2.At  home
+3.Using Google Authenticator for two step verification
+4.Using two-step authentication is inconvenient and time-consuming, but it is more secure,we talked about the different sites where it can be used and if it works as an app on Chromebook as well or you need to use a tablet or a smartphone to make the app work
+5.a few minutes
+6.we also talked about the security of using Paypal for purchases
+----
+1. Me and ex boyfriend
+2. Private place
+3. How easy or not is to work on a cybersecurity indystry
+4. His job
+5. 3-4 minutes
+6. That it was an interestsing subject to discuss, even thought I dont know almost anything about it.
+----
+The last time I talked about cyber security I was having conversation with my friends at the pub. We were talking about online fraud taking place on selling/buying platforms like vinted and olx, because I'm selling a lot of clothes online and I noticed a common scam (I wasn't scammed because I recognised it soon enough). This type of scam (people and bots messaging sellers telling them that they bought something from them and already paid, then giving link to the platform which looks exactly like Vinted or Olx so the seller will "receive" the money) is happening all the time. 
+----
+The conversation involved my wife and I.
+We were at home during our dinner, and we talked about a major cybersecurity breach in Italy that involved the Ministry of Justice.
+We talked about the vulnerabilities of our infrastuctures and how weak our IT defence could be in such situations.
+The conversations went on for a worth 10 minutes circa. 
+----
+The last time I talked about cybersecurity was with my mom. My mom is already in her 60's and often she doesn't understand how her phone works. She asked me to visit her at home to help her with an issue she had on her phone. To further explain this, she didn't understand why every time she went to YouTube it would say that she had to download this app on her phone to protect ''her phone from viruses''. It had come up a few times while she was listening to music on YouTube. I had to tell her to not download the app and click on nothing else. She didn't understand that it was an ad and nothing more than that. She kept saying: ''but it says I need to download this app it is on the screen''. People, like her, who don't understand the internet that well, are an easy ''prey'' or ''victim'' for criminals. They know that older people fall victim for scams like that. I fixed my mom's problem in a few minutes, but if shed hadn't asked me for help the conquences could have been so big. What if criminals took over her phone.
+----
+It was a conversation with my husband.
+we talked at home.
+he works in IT so i was discussing the nato summit that took place here.
+the nato summit triggered the conversation. 
+it was about 5 minutes.
+
+----
+It was a conversation with my brother. We were out walking the dogs and he told me about a recurring suscription to an online site that he had supposedly made but in reality, he never suscribed to that service and had to make calls to cancel said service because someone had made it in his name. From there, the topic of website passwords came up and we talked a few minutes about the different ways we know to obtain secure passwords or the most secure ones possible. I remember telling him about a method I discovered online a while ago that consists of a website or application that provides unique passwords every time you want to access a site and you do not have to remember them. We both thought it was the most interesting and secure option to avoid hacking.
+----
+The conversation was with a friend about three months ago in a computer shop while we were looking at the laptops they sold there. Then, the subject of security or privacy came up and the conversation turned to how secure a password is.
+----
+Me, my girlfriend and friends. Some news about online theft reminded us a situation in which someone used one of our card's data to shop online. We talked for 10 min about how is it possible to happen, since we are extremely careful and have decent knowledge of basic online security.
+----
+The conversation involved a friend of mine, we were at the restaurant. The conversation was triggered by by my friend saying that he was robbed. I replied that I had a cyber attack against my NAS at home. It was a ransonware crypting the content of my NAS including photos. I didn't pay because I had backups. The conversation lasted I think 10 minutes. I remember having to explain to my wife and his wife what happened.
+----
+It was with my partner, it did take place after a suspicious call of the bank.
+
+Whoever called tried to get some sensitive data about the bank account of my partner, at first it wasn't suspicious because the caller already had some of that data and only asked confirmation. 
+
+The topic lasted some days because we didn't now if they could do something to the bank account and we where watching it closely.
+----
+A work partner on the wokr place. We talk about how IA can solve little works without our supervision. The trigger was the work was we was making at this moment. Last 1 or 2 minutes.
+----
+Conversation Description
+----
+I talked to my friend about how AI and the further development of deep fakes will influence the media. For about 10 minutes, we wondered whether only social media would be affected or also public broadcasters, i.e., both radio and television, and whether the masses would become more cautious and recognize “fake news” and the like, or whether most people would fall for it and believe everything they see and hear without questioning it. The trigger was deep fake memes of German politicians that we remembered. The whole thing took place on a subway platform/in the subway.
+----
+1. My son and I
+2. At home
+3. How not to click on things you shouldn't
+4. My son has limitations, but is supposed to use an iPad at school. No one explains anything to him, he doesn't understand what things cost, etc., or what is allowed.
+5. 30 min
+----
+The conversation took place within my own family. It was about protection against various types of cyber attacks and fraud attempts. Among other things, we discussed using passwords that are as diverse as possible, backing up data multiple times, and generally being alert to fraud attempts such as phishing. The conversation lasted about 5 minutes.
+----
+1. A relative and myself
+2. During a voice call online
+3. General topics in cybersecurity 
+4. The relative is educated in the topic but generally treat their personal cybersecurity lightly
+5. A few minutes 
+6. No
+----
+A friend from the dormitory was hacked via the Wi-Fi. She was able to react in time and reset the router. In addition, the hackers only got her less important passwords.
+----
+I was in a school conference, that was free entry at my university, with two of my flatmates who do computer science as their degree. They asked me to tag along for fun, and since I was free on the day, I opted to go. It was incredibly interesting, as the hour I was there I gained a lot of respect for the advancements in technology, and the process that comes with cybersecurity.
+----
+A few months ago, I was discussing with my friend a security flaw that we discovered in the eshop of a known supermarket. The conversation took place at a cafe and we talked about how the company didn't notice this flaw and what consequences it could have. Our conversation lasted about 2 hours.
+----
+1. Me and coworker.
+2. Office.
+3. About reciving mails with notification about new loggin every time.
+4. Coworker recived mails about new loggin when it wasn't first login.
+5. fFve minutes.
+6. I told coworker that it's normal and occure on every device, event private one.
+----
+A city I always visit and from where I'm from suffered a ciberattack, stealing the administration data from the whole city. My parents and I were talking about how there was no plan B to an attack like that and how little protection of our data were used there. It lasted for about 15 minutes, since it was a short conversation. We then move on about how our data was probably sold not only from that ciberattack, but thoughtout phones. 
+----
+I talked with my father and sister about password management and how to keep your accounts safe. The conversation happened a couple of weeks ago at my home when we met. There was no specific trigger, it is a recurring subject for my father. The conversation lasted 15 minutes and we exchanged tips.
+----
+I was talking with my partner about not linking Facebook, Instagram and all the Meta accounts together - I haven't done that because I don't feel that I can trust these companies fully, so I only do the bare minimum when it comes to using them. We both agreed they know too much about their users.
+----
+The day before the scheduled IT meeting our Manager wanted to ensure we all attend as it was very important. She talked briefly the importance of cybersecurity and it’s challenges. 
+----
+This time a friend told me that he has a problem with online fake girls and prostitutes messaging him on dating apps like tinder and sometimes also facebook. He told me that they are playing to be the real girl who is interested in meeting him but during the conversation she's asking for money, for small things, and then bigger and bigger, proposing photos in exchange etc. He sent small amount of money at first and then realised she won't stop asking for it so he blocked her and then other accounts started messaging him. This scam is pretty common on dating apps. 
