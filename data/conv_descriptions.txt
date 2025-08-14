@@ -1,5 +1,3 @@
-Please describe, in as much detail as possible, the last time you talked about cybersecurity.
-----
 1. Club colleagues
 2. University
 3. Spam emails
@@ -609,6 +607,7 @@ A while ago, I was talking to my parents about internet safety. I tried to expla
 6-We were very surpised by the format of the email Since It copied very well the type of the invoice that the company normally send
 ----
 We received a phishing email on our work email and someone failed it. Then we had to do a cyber security training
+
 ----
 Some days ago I had the bad experience of been hacked and as a result my crypto account lost an amount of coins. I asked for help from my centralized exchange support and they talked to me about steps I had to take in order to minimize loss and to make sure this does not happen in the future again. I contacted them online. The conversation lasted about 30 minutes. It was very helpfuland they gave me some tips about cyber security.
 ----
@@ -683,7 +682,9 @@ I was talking with a colleague about how several government websites have recent
 ----
 I was talking with my sister. We were talking on messenger probably. We were talking about safety of using credit cards online - especially providing their number an ccv code on the website. 
 Thing that triggered this conversation was a fact that I was looking for new running shoes and I checked few webistes, not all of them looked safe. We had a situation where my mother bought things that never were sent to her.
+Thing that triggered this conversation was a fact that I was looking for new running shoes and I checked few webistes, not all of them looked safe. We had a situation where my mother bought things that never were sent to her.
 It lasted like 10 minutes maybe.
+
 ----
 1.My sister and I
 2.At  home
@@ -713,6 +714,7 @@ we talked at home.
 he works in IT so i was discussing the nato summit that took place here.
 the nato summit triggered the conversation. 
 it was about 5 minutes.
+
 ----
 It was a conversation with my brother. We were out walking the dogs and he told me about a recurring suscription to an online site that he had supposedly made but in reality, he never suscribed to that service and had to make calls to cancel said service because someone had made it in his name. From there, the topic of website passwords came up and we talked a few minutes about the different ways we know to obtain secure passwords or the most secure ones possible. I remember telling him about a method I discovered online a while ago that consists of a website or application that provides unique passwords every time you want to access a site and you do not have to remember them. We both thought it was the most interesting and secure option to avoid hacking.
 ----
