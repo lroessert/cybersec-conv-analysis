@@ -1,3 +1,27 @@
+Please describe, in as much detail as possible, the last time you talked about cybersecurity.
+ 
+
+Consider:
+
+
+	
+	Who was involved?
+	
+	
+	Where did the conversation take place?
+	
+	
+	What did you talk about?
+	
+	
+	What triggered the conversation?
+	
+	
+	How long did it last?
+	
+	
+	Anything else you remember?
+----
 1. Club colleagues
 2. University
 3. Spam emails
@@ -682,7 +706,6 @@ I was talking with a colleague about how several government websites have recent
 ----
 I was talking with my sister. We were talking on messenger probably. We were talking about safety of using credit cards online - especially providing their number an ccv code on the website. 
 Thing that triggered this conversation was a fact that I was looking for new running shoes and I checked few webistes, not all of them looked safe. We had a situation where my mother bought things that never were sent to her.
-Thing that triggered this conversation was a fact that I was looking for new running shoes and I checked few webistes, not all of them looked safe. We had a situation where my mother bought things that never were sent to her.
 It lasted like 10 minutes maybe.
 
 ----
@@ -731,6 +754,8 @@ Whoever called tried to get some sensitive data about the bank account of my par
 The topic lasted some days because we didn't now if they could do something to the bank account and we where watching it closely.
 ----
 A work partner on the wokr place. We talk about how IA can solve little works without our supervision. The trigger was the work was we was making at this moment. Last 1 or 2 minutes.
+----
+Conversation Description
 ----
 I talked to my friend about how AI and the further development of deep fakes will influence the media. For about 10 minutes, we wondered whether only social media would be affected or also public broadcasters, i.e., both radio and television, and whether the masses would become more cautious and recognize “fake news” and the like, or whether most people would fall for it and believe everything they see and hear without questioning it. The trigger was deep fake memes of German politicians that we remembered. The whole thing took place on a subway platform/in the subway.
 ----
